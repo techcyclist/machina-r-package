@@ -1,0 +1,20 @@
+Package: Machina
+Type: Package
+Title: Machina Time Series Generation and Backtesting
+Version: 0.1.4
+Authors@R: c(
+    person("Nelson", "Mark", email = "mnelson@machi.na", role = "aut"),
+    person("Gursky", "Michael", email = "mgursky@machi.na", role = "aut"),
+	person("Kamal", "Akram", email = "akamal@machi.na", role = "ctb"),
+	person("Norton", "Tim", email = "tnorton@machi.na", role = "cre"))
+Description: Connects to <https://machi.na/> and allows the creation
+    of time series, and running backtests on selected portfolio if requested.
+Imports:
+	httr,
+	jsonlite,
+	lubridate,
+	xts,
+	rhandsontable,
+	DT
+License: GPL
+LazyData: TRUE
