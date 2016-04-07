@@ -1,1 +1,5 @@
-cat("#IMPORTANT NOTE: See the quick start guide by typing ?machina")
+cat("#################################################")
+cat("#                                               #")
+cat("# See the quick start guide by typing ?machina  #")
+cat("#                                               #")
+cat("#################################################")
