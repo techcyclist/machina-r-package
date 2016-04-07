@@ -1,0 +1,1 @@
+cat("#IMPORTANT NOTE: See the quick start guide by typing ?machina")
